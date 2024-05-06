@@ -1,0 +1,11 @@
+.select-days{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+    margin-left: 0;
+    padding-left: 0;
+    
+   
+}
